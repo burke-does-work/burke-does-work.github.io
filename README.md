@@ -1,3 +1,4 @@
+<base target="_blank">
 # Matt Burke Does Work
 ---
 <br/>
